@@ -9,4 +9,3 @@ def fib(inputn):
         n2 = next
         count += 1
     return term
-print(fib(3))
